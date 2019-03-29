@@ -1,0 +1,1 @@
+browser-sync -s -f "css/*.css, *.html"
